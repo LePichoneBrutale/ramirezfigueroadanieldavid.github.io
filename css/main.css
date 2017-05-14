@@ -32,7 +32,9 @@ p{
   padding-right:25%
 
 }
-
+a{
+  color:white;
+}
 div{
   display:block;
 }
