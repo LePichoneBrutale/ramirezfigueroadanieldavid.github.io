@@ -1,3 +1,6 @@
+a,ul,hl,li{
+  color:white;
+}
 .contenido{
   color:white;
 } 
@@ -16,6 +19,7 @@
 .disqus_thread{
   color:white;
 }
+
 p{
   color:blue;
 }
