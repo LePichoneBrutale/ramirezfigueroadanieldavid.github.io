@@ -1,4 +1,51 @@
- 
+.contenido{
+  color:white;
+} 
+.cont2{
+    color:gray;
+    
+}
+.disqus_thread{
+  color:white;
+}
 p{
   color:blue;
+}
+.lux {
+  height:50%;
+  width:50%;
+}
+.titulo{
+  color:white;
+  position:relative;
+  width:25%;
+  float:right;
+  padding-top: 5%;
+  padding-right:25%
+
+}
+
+div{
+  display:block;
+}
+.edgar2 {
+  height:20%;
+  width:20%;
+  display: block;
+  margin-left:25%;
+  margin-top:7%;
+  float:left;
+  margin-right:2%;
+}
+body{   
+   background-size: cover;
+   background-position:top;
+   background-repeat: repeat;
+}
+.texto1{
+  padding-top: 12%;
+  display: block;
+  margin-left:25%;
+  margin-right:25%;
+  color:gray;
 }
