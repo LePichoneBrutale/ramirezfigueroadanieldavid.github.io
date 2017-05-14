@@ -5,6 +5,14 @@
     color:gray;
     
 }
+.conclusion{
+   color:white;
+  position:relative;
+  width:25%;
+  float:right;
+  padding-top: 5%;
+  padding-right:35%;
+}
 .disqus_thread{
   color:white;
 }
